@@ -1,6 +1,6 @@
 # FIFA 2026 Registration Portal (LAMP stack)
 
-Basic registration portal using PHP & MySQL.
+Basic registration portal using Linux (CentOS), Apache, MariaDB, PHP.
 
 ## Setup
 
